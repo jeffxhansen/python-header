@@ -1,9 +1,9 @@
 {
   "name": "header-python",
-  "displayName": "python header",
-  "description": "After highlighting some words, you can use this command to turn that into a code block header with the format ########\\n# WORD #\\n########",
-  "icon": "header-python-icon.png",
-  "version": "0.0.5",
+  "displayName": "Python Header",
+  "description": "After highlighting some words, you can use this command to turn that into a code block header with the format \n########\n# WORD #\n########",
+  "icon": "icon.png",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.87.0"
   },
