@@ -13,9 +13,13 @@
   "main": "./extension.js",
   "contributes": {
     "commands": [{
-      "command": "header-python.helloWorld",
+      "command": "header-python.header-python",
       "title": "header-python"
     }]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jeffxhansen/python-header"
   },
   "scripts": {
     "lint": "eslint .",

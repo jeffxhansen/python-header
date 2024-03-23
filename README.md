@@ -2,6 +2,8 @@
 
 This is a VS-Code Extension that allows you to quickly and easily add python code headers inside your code.
 
+
+
 # Example
 
 Let's say you have this simple python code file, and you want to break it up into three secionts: math functions, input/output
