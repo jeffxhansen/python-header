@@ -1,7 +1,7 @@
 {
   "name": "header-python",
   "displayName": "Python Header",
-  "description": "After highlighting some words, you can use this command to turn that into a code block header with the format \n########\n# WORD #\n########",
+  "description": "After highlighting some words, you can use this command to turn that into a code block header with the format \n##########\n# HEADER #\n##########",
   "icon": "icon.png",
   "version": "1.0.0",
   "engines": {
