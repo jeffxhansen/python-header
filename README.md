@@ -2,7 +2,7 @@
 
 This is a VS-Code Extension that allows you to quickly and easily add python code headers inside your code. To download it go to VSCode Extensions, search `Python Header` by `Jeff Hansen` and install it.
 
-[Demo.webm](https://github.com/jeffxhansen/python-header/assets/62043475/821f578d-36b9-4898-88b7-1730da6646b3)
+![Demo](https://github.com/jeffxhansen/python-header/assets/62043475/cd181bd4-0a6b-4b65-9782-c924f3dd77ae)
 
 # how to use
 
