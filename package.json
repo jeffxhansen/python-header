@@ -3,7 +3,7 @@
   "displayName": "Python Header",
   "description": "After highlighting some words, you can use this command to turn that into a code block header with the format \n########\n# WORD #\n########",
   "icon": "icon.png",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "engines": {
     "vscode": "^1.87.0"
   },
