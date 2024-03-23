@@ -17,6 +17,7 @@
       "title": "header-python"
     }]
   },
+  "publisher": "JeffHansen",
   "repository": {
     "type": "git",
     "url": "git://github.com/jeffxhansen/python-header"

@@ -4,6 +4,29 @@ This is a VS-Code Extension that allows you to quickly and easily add python cod
 
 [Screencast from 03-23-2024 11:02:07 AM.webm](https://github.com/jeffxhansen/python-header/assets/62043475/b71d58bc-fb5d-49c4-9a76-ee9e28bc1b21)
 
+# how to use
+
+1. First type your header in lowercase above the code
+```Python
+function header
+
+def function():
+    ...
+```
+2. Highlight the text (in this case, highlight "function header")
+3. `ctrl`+`shift`+`p`
+4. Find the command `header-python`
+5. Press enter
+6. Watch your simple text turn into a block python header
+```Python
+############################################################
+#                      FUNCTION HEADER                     #
+############################################################
+
+def function():
+    ...
+```
+
 # Example
 
 Let's say you have this simple python code file, and you want to break it up into three secionts: math functions, input/output
